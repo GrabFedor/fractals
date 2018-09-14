@@ -38,6 +38,14 @@ image with zoomed blacknwhite Mandelbrot fractal.
 i am not going to do more maths, but we can see, that this number with each iteration goes closer to infinity. Every complex number is a set of coordinates on the plane, if number c is in Mandelbrot set, script takes a point and colors it. To make a fractal picture more beautiful i decided to compare how far goes the complex number and made 255 levels (levels of how far is it), and got 255 shadows of gray color (example on the picture above).
 
 
+![Картинка][image1]
+![Картинка][image2]
+
+
+[image1]: https://pp.userapi.com/c850428/v850428205/2d7f/y1glYHUrW_s.jpg "man brot fractal colored
+[image2]: https://github.com/GrabFedor/fractals/blob/master/manbrot.gif
+
+
 I can change colors in my code and get something like this:
 ![](https://pp.userapi.com/c850428/v850428205/2d7f/y1glYHUrW_s.jpg "man brot fractal colored")
 
