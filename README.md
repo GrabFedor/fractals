@@ -12,7 +12,7 @@ The Sierpinski triangle, also called the Sierpinski gasket or the Sierpinski Sie
 5. Plot the current position.
 6. Repeat from step 3
 ### ![Here is my generated Sierpinsiy fractal](https://pp.userapi.com/c850428/v850428205/2d5b/b_d_ipZD6bs.jpg "Sierpinsli fractal")
-you can check read about Sierpinski triangle [here](https://en.wikipedia.org/wiki/Sierpinski_triangle) 
+you can read about Sierpinski triangle [here](https://en.wikipedia.org/wiki/Sierpinski_triangle) 
 ***
 
 # Mandelbrot fractal:
