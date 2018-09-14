@@ -13,6 +13,7 @@ The Sierpinski triangle (also with the original orthography Sierpiński), also c
 5. Plot the current position.
 6. Repeat from step 3
 ### ![Here is my generated Sierpinsiy fractal](https://pp.userapi.com/c850428/v850428205/2d5b/b_d_ipZD6bs.jpg "Sierpinsli fractal")
+you can check more abput Sierpinski triangle [here](https://en.wikipedia.org/wiki/Sierpinski_triangle) 
 ***
 
 # Mandelbrot fractal:
@@ -42,3 +43,4 @@ I can change colors in my code and get something like this:
 
 Also we can animate it and see the zoom process with a really good colors:
 ![](https://github.com/GrabFedor/fractals/blob/master/manbrot.gif)
+you can check more information about Mandelbrot set [here](https://en.wikipedia.org/wiki/Mandelbrot_set)
