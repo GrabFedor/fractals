@@ -1,5 +1,4 @@
-# fractals
-My scripts renderings fractals
+# Fractals
 ***
 ## Sierpinski fractal
 code: sierpinski.py 
