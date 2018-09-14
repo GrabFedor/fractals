@@ -42,7 +42,7 @@ i am not going to do more maths, but we can see, that this number with each iter
 ![Картинка][image2]
 
 
-[image1]: https://pp.userapi.com/c850428/v850428205/2d7f/y1glYHUrW_s.jpg "man brot fractal colored
+[image1]: https://pp.userapi.com/c850428/v850428205/2d7f/y1glYHUrW_s.jpg
 [image2]: https://github.com/GrabFedor/fractals/blob/master/manbrot.gif
 
 
