@@ -42,5 +42,4 @@ I can change colors in my code and get something like this:
 
 Also we can animate it and see the zoom process with a really good colors:
 ![](https://github.com/GrabFedor/fractals/blob/master/manbrot.gif)
-
-you can check more information about Mandelbrot set [here](https://en.wikipedia.org/wiki/Mandelbrot_set)
+you can read about Mandelbrot set [here](https://en.wikipedia.org/wiki/Mandelbrot_set)
