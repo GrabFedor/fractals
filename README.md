@@ -40,6 +40,7 @@ i am not going to do more maths, but we can see, that this number with each iter
 I can change colors in my code and get something like this:
 ![](https://pp.userapi.com/c850428/v850428205/2d7f/y1glYHUrW_s.jpg "man brot fractal colored")
 
-Also we can animate it and see the zoom process with a really good colors:
+Also we can animate it and see the zoom process with really good colors:
 ![](https://github.com/GrabFedor/fractals/blob/master/manbrot.gif)
+
 you can read about Mandelbrot set [here](https://en.wikipedia.org/wiki/Mandelbrot_set)
